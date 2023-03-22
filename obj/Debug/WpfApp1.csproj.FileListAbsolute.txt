@@ -1,0 +1,40 @@
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\victo\Downloads\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\MainWindow.g.cs
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\Window1.g.cs
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\Window2.g.cs
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\App.g.cs
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.exe
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.pdb
+C:\Users\alena\OneDrive\Рабочий стол\хуй\bin\Debug\WpfApp1.exe.config
+C:\Users\alena\OneDrive\Рабочий стол\хуй\bin\Debug\WpfApp1.exe
+C:\Users\alena\OneDrive\Рабочий стол\хуй\bin\Debug\WpfApp1.pdb
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\MainWindow.baml
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\Window1.baml
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\Window2.baml
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.g.resources
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\alena\OneDrive\Рабочий стол\хуй\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
